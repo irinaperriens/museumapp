@@ -7,7 +7,7 @@ header {
 }
 h1 {
   padding: 1rem;
-  font-size: 8rem;
+  font-size: 9rem;
   font-family: 'Cabin Sketch', cursive;
   color: white;
   text-align: center;
@@ -39,7 +39,7 @@ footer p {
    color: #FB5012;
    font-family: sans-serif;
    text-transform: uppercase;
-   font-size: 2rem;
+   font-size: 8rem;
  }
 
  li {
@@ -90,7 +90,8 @@ img {
 
 .uitleg {
   text-align: center;
-  margin:2rem;
+  margin:4rem;
+  line-height: 5rem;
   font-size: 1rem;
   font-family: sans-serif;
 }
@@ -123,9 +124,9 @@ h3 {
 .detail p {
   text-align: center;
   margin:2rem;
-  font-size: 1rem;
+  font-size: 4rem;
   font-family: sans-serif;
-  line-height: 2rem;
+  line-height: 5rem;
   margin-bottom: 27rem;
 }
 

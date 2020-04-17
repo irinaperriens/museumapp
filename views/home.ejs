@@ -1,0 +1,17 @@
+<%- include('header'); -%>
+<%- include('nav'); -%>
+
+  <main class="home">
+    <p class="uitleg">Welkom op de app van heet kunstmuseum. Hier vindt u allerlei werken die wij
+    tentoon hebben staan in ons museum. Dit gaat over werken uit verschillende tijden en kunststromingen gemaakt door heel wat verschillende kunstenaars.
+    Hieronder ziet u enkel van onze uitgelichte werken van het moment.</p>
+      <div class="indekijker">
+        <div class="grid">
+          <% for(let i=0; i<uitgelicht.length; i++) { %>
+            <%- include('werk', {werk: uitgelicht[i], index: i}); -%>
+          <% } // close forloop %>
+        </div>
+      </div>
+  </main>
+
+<%- include('footer'); -%>

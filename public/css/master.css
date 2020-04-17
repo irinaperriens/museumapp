@@ -1,0 +1,179 @@
+/* HEADER */
+
+header {
+  background-color: #FB5012;
+  margin: 0;
+  width: 100%;
+}
+h1 {
+  padding: 1rem;
+  font-size: 8rem;
+  font-family: 'Cabin Sketch', cursive;
+  color: white;
+  text-align: center;
+}
+
+/* FOOTER */
+footer {
+  background-color: #FB5012;
+  margin: 0;
+  width: 100%;
+}
+
+footer p {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 1rem;
+  padding: 2rem;
+}
+
+/* NAV */
+
+ nav {
+   margin-bottom: 2rem;
+ }
+
+ li a {
+   text-decoration: none;
+   color: #FB5012;
+   font-family: sans-serif;
+   text-transform: uppercase;
+   font-size: 2rem;
+ }
+
+ li {
+   padding-top: 2rem;
+   text-align: center;
+   font-weight: 500;
+ }
+
+ /* IMG */
+
+img {
+  width: 100vw;
+  margin-bottom: 2rem;
+}
+
+.werkcontainer {
+  position: relative;
+}
+
+.textcontainer {
+  position: absolute;
+  top: 0;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  width: 100vw;
+  padding: 1rem 0 1rem 1rem;
+  font-size: 4rem;
+  font-family: sans-serif;
+}
+
+.textcontainer h2 {
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.werkcontainer a {
+  background-color: #FB5012;
+  position: absolute;
+  bottom: 5rem;
+  right: 3rem;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: white;
+  font-family: sans-serif;
+  font-size: 4rem;
+}
+
+.uitleg {
+  text-align: center;
+  margin:2rem;
+  font-size: 1rem;
+  font-family: sans-serif;
+}
+
+
+/* OVERZICHT PAGINA */
+
+h3 {
+  font-family: 'Cabin Sketch', cursive;
+  font-size: 8rem;
+  margin: 3rem 0 2rem 1rem;
+}
+
+
+.button {
+  border: 1px solid #FB5012;
+  margin: 0rem 0 2rem 1rem;
+  border-color: white;
+  padding: 1rem;
+  font-size: 4rem;
+}
+
+.is-checked {
+  background-color: #FB5012;
+  color: white;
+}
+
+/* DETAIL PAGINA */
+
+.detail p {
+  text-align: center;
+  margin:2rem;
+  font-size: 1rem;
+  font-family: sans-serif;
+  line-height: 2rem;
+  margin-bottom: 27rem;
+}
+
+.detail h3 {
+  text-align: center;
+}
+
+.detailtime {
+  margin: 0 0 0 0rem;
+  padding: 1rem;
+  position: absolute;
+  top:0rem;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  width: 100vw;
+  font-family: sans-serif;
+  font-size: 4rem;
+  line-height: 5rem;
+}
+
+.imgcontainer  {
+  position: relative;
+}
+
+/* CONTACT */
+
+.contact {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FB5012;
+  color: white;
+  font-family: sans-serif;
+  width: 80%;
+  margin-bottom: 2rem;
+  padding: 2rem;
+}
+
+.contact p, .contact h4{
+  margin-top: 2rem;
+}
+
+
+.contact h4 {
+  font-size: 4rem;
+  font-weight: 600;
+}
+
+.contact p {
+  font-size: 1.8rem;
+}

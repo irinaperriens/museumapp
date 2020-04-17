@@ -1,0 +1,29 @@
+<%- include('header'); -%>
+<%- include('nav'); -%>
+
+<h3> Overzicht werken</h3>
+
+<main>
+
+  <div class="button-group filters-button-group">
+    <button class="button is-checked" data-filter="*">show all</button>
+    <button class="button" data-filter="popart">Popart</button>
+    <button class="button" data-filter="surrealisme">Surrealisme</button>
+    <button class="button" data-filter="magischrealisme">Magisch realisme</button>
+    <button class="button" data-filter="futurisme">futurisme</button>
+  </div>
+
+
+  <div class="grid">
+    <% for (let i=0; i<werken.length; i++) { %>
+      <%- include('werk', {werk: werken[i], index: i}); -%>
+    <% } // close forloop %>
+  </div>
+</main>
+
+
+
+<link rel="stylesheet" href="/css/master.css">
+<script src="/js/isotope.js" charset="utf-8"></script>
+<script src="/js/script.js" charset="utf-8"></script>
+<%- include('footer'); -%>

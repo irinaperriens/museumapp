@@ -1,0 +1,14 @@
+<%- include('header'); -%>
+    <article class="detail">
+      <h3><%=werk.title %></h3>
+      <div class="imgcontainer">
+        <img src="<%=werk.img %>" alt="<%= werk.title %>">
+        <div class="detailtime">
+          <address><%=werk.Artist %></address>
+          <div><%=werk.date %></div>
+          <div><%=werk.time %></div>
+        </div>
+      </div>
+      <p><%=werk.discription %></p>
+    </article>
+<%- include('footer'); -%>

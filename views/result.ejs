@@ -1,0 +1,18 @@
+<%- include('header'); -%>
+<%- include('nav'); -%>
+
+<h2>Resultaat voor: <%- query %></h2>
+<main>
+
+
+  <div class="grid">
+    <% for (let i=0; i<results.length; i++) { %>
+      <%- include('werk', {werk: results[i], index: i}); -%>
+    <% } %>
+  </div>
+
+</main>
+
+
+<%- include('footer'); -%>
+<link rel="stylesheet" href="/css/master.css">

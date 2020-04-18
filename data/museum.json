@@ -62,6 +62,15 @@
       "time": "popart",
       "img": "/img/campbell.jpg",
       "uitgelicht" : true
+    },
+    {
+      "title": "BrainChain",
+      "discription": "Den Broeder is autodidact. Hij werkt als surrealist sinds 1995 en exposeert nationaal en internationaal sinds 1997. Hij maakt schilderijen (acryl, olieverf, aquarel), tekeningen (houtskool, conté, potlood), automatisch schrijfwerk, etsen, houtsnijwerk, objecten, digitale techniek, 'semi ready-mades' en korte surrealistische films. Soms voorziet hij zijn werken van poëzie.[1] Den Broeder werkt samen met andere surrealisten, onder wie Rik Lina (Nederland), Zazie (Oostenrijk), Bernard Dumaine (Frankrijk), Richard Dotson, Graig Blair en Pablo Weisz Carington (allen Verenigde Staten) en Pinina Podestà (Italië).",
+      "Artist": "Willem den Broeder",
+      "date": "2001",
+      "time": "surrealisme",
+      "img": "/img/brainchain.png",
+      "uitgelicht" : false
     }
   ]
 }

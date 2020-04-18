@@ -220,9 +220,6 @@ form.searchbar input[type=text] {
   font-size: 3rem;
 }
 
-input[type=text]{
-  font-size: 50px
-}
 
 .result {
   margin: 4rem 0 0 2rem;

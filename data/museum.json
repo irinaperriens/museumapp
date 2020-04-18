@@ -71,6 +71,24 @@
       "time": "surrealisme",
       "img": "/img/brainchain.png",
       "uitgelicht" : false
+    },
+    {
+      "title": "Relativity",
+      "discription": "Den Broeder is autodidact. Hij werkt als surrealist sinds 1995 en exposeert nationaal en internationaal sinds 1997. Hij maakt schilderijen (acryl, olieverf, aquarel), tekeningen (houtskool, conté, potlood), automatisch schrijfwerk, etsen, houtsnijwerk, objecten, digitale techniek, 'semi ready-mades' en korte surrealistische films. Soms voorziet hij zijn werken van poëzie.[1] Den Broeder werkt samen met andere surrealisten, onder wie Rik Lina (Nederland), Zazie (Oostenrijk), Bernard Dumaine (Frankrijk), Richard Dotson, Graig Blair en Pablo Weisz Carington (allen Verenigde Staten) en Pinina Podestà (Italië).",
+      "Artist": "Maurits Cornelis Escher",
+      "date": "1953",
+      "time": "Magisch realisme",
+      "img": "/img/relativiteit.jpg",
+      "uitgelicht" : false
+    },
+    {
+      "title": "Gelijkaardige visioenen",
+      "discription": "Boccioni werd geboren in Reggio Calabria, zijn ouders waren afkomstig uit Emilia-Romagna. Toen zijn vader werd overgeplaatst naar Forlì, was Umberto nog maar een paar dagen oud. Hij bracht zijn kindertijd in deze stad door. In 1906 verhuisde hij voor korte tijd naar Parijs, waar hij schilderijen van Cézanne zag en de Impressionistische en Post-Impressionistische richtingen in de schilderkunst bestudeerde. Daarna bracht hij een bezoek van drie maanden aan Rusland, waarbij hij door eigen ervaring een kijk kreeg op de sociale onrust in dat land en de tekortkomingen van de Russische overheid. In 1907 keerde hij terug naar Italië. In 1910 ondertekende hij met Carlo Carrà, Luigi Russolo, Giacomo Balla en Gino Severini het Manifesto dei pittori futuristi (het futuristisch schildersmanifest).In mei 1916, werd hij opgeroepen om dienst te nemen in het Italiaanse leger en deel te nemen aan de gevechten van de Eerste Wereldoorlog. Hij werd soldaat in een artillerie regiment in Sorte, bij Verona. Op de 16de augustus 1916, werd hij tijdens een training van de cavalerie van zijn paard geworpen en door het paard vertrappeld. Hij stierf de volgende dag op drieëndertigjarige leeftijd.",
+      "Artist": "Umberto Boccioni",
+      "date": "1882 - 1916",
+      "time": "futurisme",
+      "img": "/img/visioenen.jpg",
+      "uitgelicht" : false
     }
   ]
 }
